@@ -1,1 +1,1 @@
-# new 
+# QR-Code-component
